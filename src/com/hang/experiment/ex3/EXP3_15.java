@@ -1,4 +1,4 @@
-package com.hang.experiment;
+package com.hang.experiment.ex3;
 
 public class EXP3_15 {
     // Main method
